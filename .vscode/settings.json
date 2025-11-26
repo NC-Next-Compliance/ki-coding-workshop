@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        "test_blohm/.vscode/mcp.json: upstash/context7": {
+            "allowedModels": [
+                "copilot/claude-sonnet-4.5",
+                "copilot/gemini-2.5-pro",
+                "copilot/gpt-5.1"
+            ]
+        }
+    }
+}
